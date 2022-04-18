@@ -1,6 +1,6 @@
 baseURL = "https://marcosygs.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de marcos"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
